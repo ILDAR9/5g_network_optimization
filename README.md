@@ -4,6 +4,8 @@ My approach to solve the contest of ["Управление Информация 
 
 The solution shared the 1st place with another solution.
 
+The task is related to ["Optical Network Planning"](Explain Interval Vertex Coloring.pdf).
+
 ### Task description
 Дан неориентированный граф и набор путей на нём. Для каждого пути задана его целочисленная ширина BW.
 Каждый путь надо раскрасить в BW подряд идущих цветов из множества {0,1,2,...,319} так, чтобы любые два пути,
