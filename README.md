@@ -4,7 +4,7 @@ My approach to solve the contest of ["Управление Информация 
 
 The solution shared the 1st place with another solution.
 
-The task is related to ["Optical Network Planning"](Explain Interval Vertex Coloring.pdf).
+The task is related to ["Optical Network Planning"](Explain_Interval_Vertex_Coloring.pdf).
 
 ### Task description
 Дан неориентированный граф и набор путей на нём. Для каждого пути задана его целочисленная ширина BW.
