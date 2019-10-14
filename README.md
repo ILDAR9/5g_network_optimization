@@ -2,7 +2,7 @@
 
 My approach to solve the contest of ["Управление Информация Оптимизация"](https://ssopt.org).
 
-The solution shared the 1st place with another solution.
+The solution (**coloring.py**) shared the 1st place with another solution.
 
 The task is related to ["Optical Network Planning"](Explain_Interval_Vertex_Coloring.pdf).
 
